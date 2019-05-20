@@ -17,8 +17,10 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * [LTE_security_TakeDownCon.pdf](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_security_TakeDownCon.pdf)
 * [Practical Attacks Against Privacy and Availability in
 4G/LTE Mobile Communication Systems](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)
-* [ShmooCon_talk_final_01162016.pdf](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)
-* [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
+* [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)
+* [TUTORIAL:
+LTE AND 5G PROTOCOL SECURITY PROCEDURES AND
+VULNERABILITY ANALYSES USING SOFTWARE RADIO TESTBEDS](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
 * [Breaking_Lte_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
 
 
