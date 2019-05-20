@@ -13,7 +13,8 @@ Please note multiple researchers published and compiled this work. This is a lis
 Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 * [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 * [HAXPO D1 - VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
-* [LTE_Jamming_Magazine_Paper](https://github.com/W00t3k/Awesome-cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)
+* [LTE/LTE-A Jamming, Spoofing, and Sniffing:
+Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)
 * [LTE_open_source_HackerHalted](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_open_source_HackerHalted.pdf)
 * [LTE_security_TakeDownCon.pdf](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_security_TakeDownCon.pdf)
 * [Practical Attacks Against Privacy and Availability in
