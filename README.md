@@ -3,7 +3,7 @@ Please note multiple researchers published and compiled this work. This is a lis
 # Good Reads
 
 * [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab.pdf)
-* ["Jam tomorrow, jam yesterday, but also jam today" - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
+* [Jam tomorrow, jam yesterday, but also jam today - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 * [AT&T Microcell FAIL - fail0verflow (Older blog article, but still a good read)](https://fail0verflow.com/blog/2012/microcell-fail/)
 
 
@@ -37,12 +37,6 @@ VULNERABILITY ANALYSES USING SOFTWARE RADIO TESTBEDS](https://github.com/W00t3k/
 * bladeRF
 * HackRF
 * LimeSDR
-
-# Hardware
-* Odroid
-* Raspberry Pi
-* PC
-* Android
 
 # Cellular Scanning/Jamming Software
 * https://github.com/Synacktiv-contrib/Modmobjam
