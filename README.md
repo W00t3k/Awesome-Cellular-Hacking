@@ -35,12 +35,18 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 
 
 ## [↑](#contents)Cellular Software
-* ["OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet"](http://openbts.org/)
+* [OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet](http://openbts.org/)
 
-* [YateBTS](https://yatebts.com/)
+* [YateBTS is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS](https://yatebts.com/)
 * [srsLTE](https://github.com/srsLTE/srsLTE)
+
+
+## Jamming and Mapping
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
+
+
+## Scanning
 * https://github.com/Evrytania/LTE-Cell-Scanner
 * https://harrisonsand.com/imsi-catcher/
 * https://github.com/Oros42/IMSI-catcher
@@ -52,6 +58,7 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * [RTL-SDR](https://www.rtl-sdr.com/) 
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
+* [FakeBTS](http://fakebts.com/category/attacks/)
 
 ## Misc
 
