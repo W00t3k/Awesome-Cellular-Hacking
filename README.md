@@ -12,7 +12,7 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
 * [LTE/LTE-A Jamming, Spoofing, and Sniffing:
 Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)
-* [LTE_open_source_HackerHalted](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_open_source_HackerHalted.pdf)
+* [Exploring LTE security and protocol exploits with open source software and low-cost software radio by Roger Jover](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_open_source_HackerHalted.pdf)
 * [LTE_security_TakeDownCon.pdf](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_security_TakeDownCon.pdf)
 * [Practical Attacks Against Privacy and Availability in
 4G/LTE Mobile Communication Systems](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)
