@@ -2,6 +2,7 @@
 ## Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
+* [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
 * [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars by KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab.pdf)
 * [Jam tomorrow, jam yesterday, but also jam today - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 * [AT&T Microcell FAIL - fail0verflow (Older blog article, but still a good read)](https://fail0verflow.com/blog/2012/microcell-fail/)
@@ -26,6 +27,7 @@ Vulnerabllity ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hac
 ## IMSI TOOLS
 * https://harrisonsand.com/imsi-catcher/
 * https://github.com/Oros42/IMSI-catcher
+* https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 
 ## (Evil Base/ Evil Twin)
 * [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
