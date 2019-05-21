@@ -1,7 +1,7 @@
 
 ## Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
-* [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab.pdf)
+* [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental Security Assessment of BMW_Cars by KeenLab)
 * [Jam tomorrow, jam yesterday, but also jam today - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 * [AT&T Microcell FAIL - fail0verflow (Older blog article, but still a good read)](https://fail0verflow.com/blog/2012/microcell-fail/)
 * [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
