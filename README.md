@@ -30,8 +30,6 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 * https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher
 
-## [↑](#contents)(Evil Base/ Evil Twin)
-
  
 ## [↑](#contents)Resources
 * [RTL-SDR](https://www.rtl-sdr.com/) 
