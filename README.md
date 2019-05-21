@@ -3,6 +3,7 @@
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
 ## Contents
+- [Voice over LTE implementations contain multiple vulnerabilities](https://www.kb.cert.org/vuls/id/943167/)
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
 - [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
@@ -24,7 +25,13 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 - [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerabllity ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
 
-## [↑](#contents)IMSI TOOLS
+## [↑](#contents)Cellular Software
+* [OpenBTS](http://openbts.org/)
+* [YateBTS](https://yatebts.com/)
+* [srsLTE](https://github.com/srsLTE/srsLTE)
+* https://github.com/Synacktiv-contrib/Modmobjam
+* https://github.com/Synacktiv-contrib/Modmobmap
+* https://github.com/Evrytania/LTE-Cell-Scanner
 * https://harrisonsand.com/imsi-catcher/
 * https://github.com/Oros42/IMSI-catcher
 * https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
@@ -35,9 +42,5 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * [RTL-SDR](https://www.rtl-sdr.com/) 
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
-* [OpenBTS](http://openbts.org/)
-* [YateBTS](https://yatebts.com/)
-* [srsLTE](https://github.com/srsLTE/srsLTE)
-* https://github.com/Synacktiv-contrib/Modmobjam
-* https://github.com/Synacktiv-contrib/Modmobmap
-* https://github.com/Evrytania/LTE-Cell-Scanner
+
+
