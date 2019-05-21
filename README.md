@@ -35,7 +35,7 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 
 
 ## [↑](#contents)Cellular Software
-* "OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet"](http://openbts.org/)
+* ["OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet"](http://openbts.org/)
 
 * [YateBTS](https://yatebts.com/)
 * [srsLTE](https://github.com/srsLTE/srsLTE)
