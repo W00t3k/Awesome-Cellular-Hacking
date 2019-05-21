@@ -2,6 +2,8 @@
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
+The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
+
 ## Contents
 - [Voice over LTE implementations contain multiple vulnerabilities](https://www.kb.cert.org/vuls/id/943167/)
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
@@ -25,8 +27,16 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 - [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerabllity ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
 
+## Stingray's
+
+- https://www.wired.com/story/dcs-stingray-dhs-surveillance/
+- https://www.vice.com/en_us/article/gv5k3x/heres-how-much-a-stingray-cell-phone-surveillance-tool-costs
+- https://www.nyclu.org/en/stingrays
+
+
 ## [↑](#contents)Cellular Software
-* [OpenBTS](http://openbts.org/)
+* "OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet"](http://openbts.org/)
+
 * [YateBTS](https://yatebts.com/)
 * [srsLTE](https://github.com/srsLTE/srsLTE)
 * https://github.com/Synacktiv-contrib/Modmobjam
@@ -42,5 +52,9 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 * [RTL-SDR](https://www.rtl-sdr.com/) 
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
+
+## Misc
+
+- https://www.eff.org/pages/cell-site-simulatorsimsi-catchers
 
 
