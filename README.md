@@ -26,7 +26,6 @@ Vulnerabllity ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hac
 ## IMSI TOOLS
 * https://harrisonsand.com/imsi-catcher/
 * https://github.com/Oros42/IMSI-catcher
-* 
 
 ## (Evil Base/ Evil Twin)
 * [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
