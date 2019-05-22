@@ -29,7 +29,7 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 - [Practical Attacks Against Privacy and Availability in
 4G/LTE Mobile Communication Systems](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)
 - [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)
-- [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerabllity ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
+- [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerability ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
 
 ## Stingray's
@@ -41,13 +41,22 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 ## SS7/Telecom Specific
 
 - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
-- [Getting in the SS7 kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
+- [Getting in the SS7  kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
 
-## [↑](#contents)Cellular Software
-[OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet](http://openbts.org/)
+## [↑](#contents)C Evil BTS
+[OpenBTS software](http://openbts.org/)is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
 
-YateBTS is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS](https://yatebts.com/)
-* [srsLTE](https://github.com/srsLTE/srsLTE)
+[YateBTS](https://yatebts.com/)is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
+
+[srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
+
+Common issues:
+- Imprioper FW
+- Lack of proper antennas
+- Wrong cellular phone type 
+- Wrong SIM
+- Not configured correctly - Mobile Country Codes (MCC) and Mobile Network Codes (MNC)
+- incorrect APN
 
 
 ## Jamming and Mapping
@@ -72,5 +81,3 @@ YateBTS is a software implementation of a GSM/GPRS radio access network based on
 ## Misc
 
 - https://www.eff.org/pages/cell-site-simulatorsimsi-catchers
-
-
