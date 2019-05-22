@@ -27,9 +27,9 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 MME	Core	Network	Elements	](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
 - [Jam tomorrow, jam yesterday, but also jam today - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 - [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerability ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
-- [Touching the Untouchables: Dynamic Security
+- [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
-Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
+- [Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
