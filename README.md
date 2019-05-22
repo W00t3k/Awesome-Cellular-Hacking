@@ -43,7 +43,7 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
 - [Getting in the SS7  kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
 
-## [↑](#contents)C Evil BTS
+## [↑](#contents)Evil BTS
 [OpenBTS software](http://openbts.org/)is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
 
 [YateBTS](https://yatebts.com/)is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
