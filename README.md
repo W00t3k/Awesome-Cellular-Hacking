@@ -5,6 +5,11 @@ Please note multiple researchers published and compiled this work. This is a lis
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
 ## Contents
+
+- [LTE	Pwnage:	Hacking	HLR/HSS	and	
+MME	Core	Network	Elements	](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
+- [Touching the Untouchables: Dynamic Security
+Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [Voice over LTE implementations contain multiple vulnerabilities](https://www.kb.cert.org/vuls/id/943167/)
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
@@ -33,6 +38,10 @@ Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hac
 - https://www.vice.com/en_us/article/gv5k3x/heres-how-much-a-stingray-cell-phone-surveillance-tool-costs
 - https://www.nyclu.org/en/stingrays
 
+## SS7/Telecom Specific
+
+- http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
+- [Getting in the SS7 kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
 
 ## [↑](#contents)Cellular Software
 * [OpenBTS software is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet](http://openbts.org/)
