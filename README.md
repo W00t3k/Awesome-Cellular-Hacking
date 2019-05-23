@@ -16,8 +16,9 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - [Practical Attacks Against Privacy and Availability in
 4G/LTE Mobile Communication Systems](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)
 - [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars by KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab.pdf)
-- [5G NR Jamming, Spoofing, and Sniffing:
-Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
+- [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
+- [LTE Security – How Good Is It?](https://csrc.nist.gov/CSRC/media/Presentations/LTE-Security-How-Good-is-it/images-media/day2_research_200-250.pdf)
+
 
 ## Talks and Conferences
 
@@ -31,6 +32,7 @@ MME	Core	Network	Elements	](https://conference.hitb.org/hitbsecconf2013ams/mater
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 - [Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
+-[Demystifying the Mobile Network by Chuck McAuley](http://2014.video.sector.ca/video/110383258)
 
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
@@ -86,6 +88,7 @@ Common issues:
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
 * [FakeBTS](http://fakebts.com/category/attacks/)
+* https://rmusser.net/docs/Wireless.html#cn
 
 ## Misc
 
