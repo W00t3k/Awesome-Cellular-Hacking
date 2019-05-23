@@ -18,21 +18,20 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - [Using OpenBTS - "Experimental_Security_Assessment_of_BMW_Cars by KeenLab"](https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Assessment_of_BMW_Cars_by_KeenLab.pdf)
 - [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 - [LTE Security – How Good Is It?](https://csrc.nist.gov/CSRC/media/Presentations/LTE-Security-How-Good-is-it/images-media/day2_research_200-250.pdf)
+- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf
 
 
 # Talks and Conferences
 
 - [LTE security and protocol exploits](https://github.com/W00t3k/Awesome CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
-- [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements	](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
-- [Jam tomorrow, jam yesterday, but also jam today ]()
-- [Synacktiv (https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
+- [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
+- [Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 - [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
-- [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
+- [WiFi IMSI Catcher](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 - [Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
-- [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
+- [WiFi IMSI Catcher](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 - [Demystifying the Mobile Network by Chuck McAuley](http://2014.video.sector.ca/video/110383258)
-- [GSM - have we overslept the last-wake-up call?]()
 - (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
