@@ -6,7 +6,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
-## Research Papers
+# Research Papers
 
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
@@ -20,20 +20,20 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - [LTE Security – How Good Is It?](https://csrc.nist.gov/CSRC/media/Presentations/LTE-Security-How-Good-is-it/images-media/day2_research_200-250.pdf)
 
 
-## Talks and Conferences
+# Talks and Conferences
 
-- [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
+- [LTE security and protocol exploits](https://github.com/W00t3k/Awesome CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
-- [LTE	Pwnage:	Hacking	HLR/HSS	and	
-MME	Core	Network	Elements	](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
-- [Jam tomorrow, jam yesterday, but also jam today - Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
-- [TUTORIAL: LTE And 5G Protocol Security Procedures and Vulnerability ANALYSES using SDR](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)
+- [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements	](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
+- [Jam tomorrow, jam yesterday, but also jam today ]()
+- [Synacktiv (https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
 - [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 - [Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher ](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
--[Demystifying the Mobile Network by Chuck McAuley](http://2014.video.sector.ca/video/110383258)
-
+- [Demystifying the Mobile Network by Chuck McAuley](http://2014.video.sector.ca/video/110383258)
+- [GSM - have we overslept the last-wake-up call?]()
+- (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
 
@@ -45,6 +45,15 @@ MME	Core	Network	Elements	](https://conference.hitb.org/hitbsecconf2013ams/mater
 - [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
 
 [srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
+
+# GSM Traffic Impersonation and Interception Related Blogs
+
+- [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
+- https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
+- https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
+- http://leetupload.com/blagosphere/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
+- [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
+- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
 
 Common issues:
 - Imprioper FW
@@ -64,6 +73,7 @@ Common issues:
 
 - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
 - [Getting in the SS7  kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
+
 ## Jamming and Mapping
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
@@ -81,8 +91,7 @@ Common issues:
 
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
-## Blogs
-- [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
+
 ## [↑](#contents)Resources
 * [RTL-SDR](https://www.rtl-sdr.com/) 
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
