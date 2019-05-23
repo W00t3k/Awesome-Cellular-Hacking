@@ -23,7 +23,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 # Talks and Conferences
 
-- [LTE security and protocol exploits](https://github.com/W00t3k/Awesome CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
+- [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
 - [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
 - [Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
