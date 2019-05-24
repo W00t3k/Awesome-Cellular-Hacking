@@ -6,6 +6,15 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
+## Recent Items of Interest 
+
+ [Lin Huang - Research](https://conference.hitb.org/hitbsecconf2018pek/speakers/lin-huang/)
+
+- [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watch?time_continue=1589&v=hNDChDM1hEE)
+
+- [Bye-Bye-IMSI-Catchers](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)
+
+
 # Research Papers
 
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
@@ -35,6 +44,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
+- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
 
 # [↑](#contents)Evil BTS
 [OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
