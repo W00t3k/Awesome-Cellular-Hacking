@@ -9,6 +9,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 ## Recent Items of Interest 
 
  [Lin Huang - Research](https://conference.hitb.org/hitbsecconf2018pek/speakers/lin-huang/)
+ 
 
 - [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watch?time_continue=1589&v=hNDChDM1hEE)
 
