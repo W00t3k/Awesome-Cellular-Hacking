@@ -8,11 +8,16 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Recent Items of Interest 
 
+- https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf
+
  [Lin Huang - Research](https://conference.hitb.org/hitbsecconf2018pek/speakers/lin-huang/)
- 
 
-- [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watch?time_continue=1589&v=hNDChDM1hEE)
 
+- [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watch?time_continue=1589&v=hNDChDM1hEE) 
+- Lin Huang, Forcing Targeted LTE Cellphone into Unsafe Network, HITB AMS Security Conference, 2016. (OpenLTE)
+
+
+- [Hacking Cellular Networks] https://www.openairinterface.org/docs/workshop/3_OAI_Workshop_20170427/Session2_UE/Lin_Huan_-_UE_Security.pdf
 - [Bye-Bye-IMSI-Catchers](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)
 
 
