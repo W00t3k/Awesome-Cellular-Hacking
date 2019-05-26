@@ -9,7 +9,8 @@ The idea is to collect information like the BMW article below, that slowly gets 
 ## Recent Items of Interest 
 
 - https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf
-https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf
+- https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf
+- https://www.synacktiv.com/ressources/Troopers_NGI_2019-Modmobtools_and_tricks.pdf
 
  [Lin Huang - Research](https://conference.hitb.org/hitbsecconf2018pek/speakers/lin-huang/)
 
