@@ -5,9 +5,10 @@ Please note multiple researchers published and compiled this work. This is a lis
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
 
-# Research Papers
+## Contents
 
 - [Hacking Public Warning System in LTE Mobile Networks](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)
+- [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
 - [RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)
 - [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watchtime_continue=1589&v=hNDChDM1hEE) 
 - [Hacking Cellular Networks](https://www.openairinterface.org/docs/workshop/3_OAI_Workshop_20170427/Session2_UE/Lin_Huan_-_UE_Security.pdf)
@@ -24,10 +25,9 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 - [LTE Security – How Good Is It?](https://csrc.nist.gov/CSRC/media/Presentations/LTE-Security-How-Good-is-it/images-media/day2_research_200-250.pdf)
 - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf
-
-
-# Talks and Conferences
-
+-[Small Tweaks do Not Help: Differential Power Analysis of MILENAGE Implementations in 3G/4G USIM Cards](https://www.blackhat.com/docs/us-15/materials/us-15-Yu-Cloning-3G-4G-SIM-Cards-With-A-PC-And-An-Oscilloscope-Lessons-Learned-In-Physical-Security-wp.pdf)
+- [#root via SMS: 4G access level security assessment](https://hackinparis.com/data/slides/2015/timur_yusinov_root_via_sms.pdf)
+- [Small Tweaks do Not Help: Differential Power Analysis of MILENAGE Implementations in 3G/4G USIM Cards](https://www.blackhat.com/docs/us-15/materials/us-15-Yu-Cloning-3G-4G-SIM-Cards-With-A-PC-And-An-Oscilloscope-Lessons-Learned-In-Physical-Security-wp.pdf)
 - [LTE security and protocol exploits](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ShmooCon_talk_final_01162016.pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
 - [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
@@ -40,7 +40,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
-- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
+- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack] (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
 
 # [↑](#contents)Evil BTS
 [OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
