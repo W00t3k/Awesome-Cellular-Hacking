@@ -7,6 +7,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
+- [USING A HACKRF TO REVERSE ENGINEER AND CONTROL RESTAURANT PAGERS](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [Hacking Public Warning System in LTE Mobile Networks](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)
 - [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
 - [RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)
