@@ -7,6 +7,8 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
+
+- [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
 - [USING A HACKRF TO REVERSE ENGINEER AND CONTROL RESTAURANT PAGERS](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [Hacking Public Warning System in LTE Mobile Networks](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)
 - [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
