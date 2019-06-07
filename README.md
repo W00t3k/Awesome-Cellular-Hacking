@@ -1,4 +1,3 @@
-
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
@@ -6,7 +5,6 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 
 ## Contents
-
 
 - [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
 - [USING A HACKRF TO REVERSE ENGINEER AND CONTROL RESTAURANT PAGERS](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
@@ -56,6 +54,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 # GSM Traffic Impersonation and Interception Related Blogs
 
+- [EVIL LTE TWIN/IMSI CATCHER](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
 - [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
 - https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
@@ -64,12 +63,14 @@ The idea is to collect information like the BMW article below, that slowly gets 
 - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
 
 Common issues:
-- Imprioper FW
+- Improper FW
 - Lack of proper antennas
 - Wrong cellular phone type 
 - Wrong SIM
 - Not configured correctly - Mobile Country Codes (MCC) and Mobile Network Codes (MNC)
-- incorrect APN
+- Incorrect software BTS settings
+- Virtualized platform is not fast enough
+- Wrong SDR firmware
 
 ## Stingray's
 
@@ -86,7 +87,6 @@ Common issues:
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
 
-
 ## Scanning
 * https://github.com/Evrytania/LTE-Cell-Scanner
 * https://harrisonsand.com/imsi-catcher/
@@ -94,11 +94,9 @@ Common issues:
 * https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 * https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher
 
- 
 ## CERT/Media Alerts
 
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
-
 
 ## [↑](#contents)Resources
 * [RTL-SDR](https://www.rtl-sdr.com/) 
