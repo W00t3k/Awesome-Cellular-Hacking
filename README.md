@@ -6,7 +6,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
-
+- [QCSniper - A tool For capture 2g-4g air traffic using qualcomm phones ](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/)
 - [This is Your President Speaking:
 Spoofing Alerts in 4G LTE Networks](http://delivery.acm.org/10.1145/3330000/3326082/p404-lee.pdf?ip=69.206.77.75&id=3326082&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1561979860_6beb0a49ed1efe337777261c443811b4ip=69.206.77.75&id=3326082&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1561979860_6beb0a49ed1efe337777261c443811b4)
 - [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
