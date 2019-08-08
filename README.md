@@ -4,6 +4,10 @@ Please note multiple researchers published and compiled this work. This is a lis
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
 
+## Defcon 2019
+
+- [New Vulnerabilities in 5G Networks,(Defcon 2019)](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
+
 ## Contents
 
 - [QCSniper - A tool For capture 2g-4g air traffic using qualcomm phones ](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/)
