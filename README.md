@@ -4,9 +4,10 @@ Please note multiple researchers published and compiled this work. This is a lis
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
 
-## Defcon 2019
+## Defcon/BH 2019
 
-- [New Vulnerabilities in 5G Networks,(Defcon 2019)](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
+- [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
+- [New Vulnerabilities in 5G Networks](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
 
 ## Contents
 
