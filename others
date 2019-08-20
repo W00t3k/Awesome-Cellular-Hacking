@@ -1,0 +1,110 @@
+Stealthy SS7 Attacks:
+https://www.riverpublishers.com/journal_read_html_article.php?j=JICTS/5/1/2
+
+Positive Technologies - learn and secure :
+http://blog.ptsecurity.com/search/label/telecom
+
+SiGploit – Telecom Signaling Exploitation Framework:
+https://github.com/SigPloiter/SigPloit
+
+The Nmap Scanner for Telco :
+https://github.com/SigPloiter/GTScan
+ 
+A Scanner for M3UA protocol to detect Sigtran supporting nodes :
+https://github.com/SigPloiter/M3UAScan
+
+HLR-Lookups:
+https://github.com/SigPloiter/HLR-Lookups
+ 
+srsLTE-docker:
+https://github.com/SigPloiter/srsLTE-docker
+ 
+Various Telecom Security Related Presentations:
+https://github.com/SigPloiter/Presentations
+
+IMSI Catching over WIFI Networks:
+https://www.linkedin.com/pulse/imsi-catching-over-wifi-networks-loay-abdelrazek/
+ 
+Hijacking Network Elements Over SS7: A New Type of Attack :
+https://www.sinch.com/insights/downloads-and-reports/hijacking-network-elements-over-ss7/
+ 
+Threats to packet core security of 4G network :
+https://www.ptsecurity.com/ww-en/analytics/epc-research/
+
+How to Intercept a Conversation Held on the Other Side of the Planet:
+https://www.slideshare.net/phdays/phd4-pres-callinterception119
+
+Dmitry Kurbatov. Five Nightmares for a Telecom :
+https://www.slideshare.net/phdays/d-kurbatov-5-nightmaresfortelco
+
+SS7 hacking – hands on SS7 hack tutorial and countermeasures video :
+https://fedotov.co/ss7-hack-tutorial-software-video/
+
+Building a Telecom Information Sharing Platform :
+https://www.troopers.de/troopers18/tsd/fx33rx/
+
+Assaulting IPX Diameter roaming network:
+https://speakerdeck.com/yodresh/assaulting-ipx-diameter-roaming-network
+ 
+SCAT: Signaling Collection and Analysis Tool
+https://github.com/fgsect/scat
+
+NIST SP 800-187 Guide to LTE 4G Security:
+https://csrc.nist.gov/publications/detail/sp/800-187/final
+
+Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems": 
+https://arxiv.org/pdf/1510.07563.pdf
+
+Experimental Analysis of Subscribers' Privacy Exposure by LTE Paging [PDF] 
+https://www.researchgate.net/publication/326696473_Experimental_Analysis_of_Subscribers%27_Privacy_Exposure_by_LTE_Paging
+
+Council of the European Union
+Law enforcement and judicial aspects related to 5G :
+http://statewatch.org/news/2019/jun/eu-council-ctc-5g-law-enforcement-8983-19.pdf
+--------------------------------------------------------------
+New Vulnerabilities in 5G Networks
+Blogpost:
+https://infosec.sintef.no/en/informasjonssikkerhet/2019/08/new-vulnerabilities-in-5g-security-architecture-countermeasures/
+PDF:
+https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks.pdf
+
+Mobile Interconnect Threats: How Next-Gen Products May be Already Outdated
+PDF:
+http://i.blackhat.com/USA-19/Thursday/us-19-Teissier-Mobile-Interconnect-Threats-How-Next-Gen-Products-May-Be-Already-Outdated.pdf
+
+All the 4G Modules Could be Hacked
+ PDF:
+https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf
+---------------------------------------------------------------
+
+Hack.lu 2016 Fraud detection and forensics on telco networks:
+https://www.youtube.com/watch?v=09EAWT_F1ZA
+
+HIP18 - Talk 06 - Mobile operators vs. Hackers new security measures for new bypassing techniques :
+https://www.youtube.com/watch?v=Sb4qUT9vKJ4
+
+Tobias Engel: SS7: Locate. Track. Manipulate.
+https://www.youtube.com/watch?v=-wu_pO5Z7Pk
+
+Fuzzing at The Edge of your Network by Loay Abdelrazek CSCAMP2017[00] :
+https://www.youtube.com/watch?v=V_y0i3_dXaA
+
+Telco's Fallen wall- SS7 Insecurity - Eng. Loay abdelrazek :
+https://www.youtube.com/watch?v=DftnqHNFm70
+
+"#HITB2019DXB: Taking Over Telecom Networks - Loay Hassan Abdelrazek and Hardik Mehta"
+https://youtu.be/j1dO_UCx9O4
+
+#HITB2016AMS D1T1 Forcing A Targeted LTE Cellphone Into An Eavesdropping Network - Lin Huang
+https://youtu.be/hNDChDM1hEE
+
+----------------------------------------------------------------
+Build a LTE Network with srsLTE and Program Your Own USIM Card:
+https://cyberloginit.com/2018/05/03/build-a-lte-network-with-srslte-and-program-your-own-usim-card.html
+
+
+
+  
+  
+
+
