@@ -61,6 +61,9 @@ https://www.researchgate.net/publication/326696473_Experimental_Analysis_of_Subs
 Council of the European Union
 Law enforcement and judicial aspects related to 5G :
 http://statewatch.org/news/2019/jun/eu-council-ctc-5g-law-enforcement-8983-19.pdf
+
+Open Source Signaling Firewall for SS7, Diameter filtering, antispoof and antisniff :
+https://github.com/P1sec/SigFW
 --------------------------------------------------------------
 New Vulnerabilities in 5G Networks
 Blogpost:
@@ -100,7 +103,15 @@ https://youtu.be/hNDChDM1hEE
 
 ----------------------------------------------------------------
 Build a LTE Network with srsLTE and Program Your Own USIM Card:
-https://cyberloginit.com/2018/05/03/build-a-lte-network-with-srslte-and-program-your-own-usim-card.html
+https://cyberloginit.com/2018/05/03/build-a-lte-network-with-srslte-and-program-your-own-usim-card.html.
+
+Build a GSM Network with OpenBSC OsmoBTS OsmoTRX and USRP B210 on a Single PC :
+https://cyberloginit.com/2018/04/27/build-a-gsm-network-with-openbsc-osmobts-osmotrx-and-usrp-b210-on-a-single-pc.html
+
+Osmocom-bb (IMSI catcher) + Prebuilt VM :
+https://bastienbaranoff.wordpress.com/2018/08/10/gsm-base-station-with-two-osmocom-bb-compatible-phones-on-kali-rolling/
+
+
 
 
 
