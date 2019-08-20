@@ -11,6 +11,8 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Contents
 
+
+- [60_Practical_Attacks_On_VoLTE_And_VoWiFi](https://static.ernw.de/whitepaper/ERNW_Whitepaper_60_Practical_Attacks_On_VoLTE_And_VoWiFi_v1.0.pdf)
 - [QCSniper - A tool For capture 2g-4g air traffic using qualcomm phones ](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/)
 - [This is Your President Speaking:
 Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
