@@ -4,6 +4,10 @@ Please note multiple researchers published and compiled this work. This is a lis
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
 
+## Usenix
+
+- [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)
+
 ## Defcon/BH 2019
 
 - [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
