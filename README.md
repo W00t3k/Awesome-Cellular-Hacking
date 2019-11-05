@@ -6,7 +6,8 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Usenix
 
-- [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)
+- [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf) - This attack, which is referred to as signal overshadowing (named SigOver) has several advantages and differences when compared with existing
+attacks using a fake base station
 
 ## Defcon/BH 2019
 
