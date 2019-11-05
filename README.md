@@ -6,9 +6,9 @@ The idea is to collect information like the BMW article below, that slowly gets 
 ## Rogue BTS & CDMA/GSM Traffic Impersonation and Interception 
 
 - [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
-How to setup a 4G/LTE EVil Twin Base Station. Similar to @Evilsocket's How To Build Your Own Rogue GSM BTS For Fun and Profit  but using 4G components.
+How to setup a 4G/LTE EVil Twin Base Station. Similar to @Evilsocket's How To Build Your Own Rogue GSM BTS For Fun and Profit  but adapted for some LTE 4G Testing/Use Cases
 - [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
-@Evilsocket explains that you can create a 3G/GSM using a BladeRf, and carefully configuring the software, and the fw version. Some of this information is outdated, and requires a newer version of OpenBTS, but still remains an extremely useful resource useful 
+"In this blog post I’m going to explain how to create a portable GSM BTS which can be used either to create a private ( and vendor free! ) GSM network or for GSM active tapping/interception/hijacking … yes, with some (relatively) cheap electronic equipment you can basically build something very similar to what the governments are using from years to perform GSM interception."
 - [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
 "Impersonating a cellular base station with SDR: With the flexibility, relative low cost of Software Defined Radio (SDR) and abundance of open source projects that emulate a cell tower, successfully impersonating a GSM Base Station (BTS) is not a difficult task these days."
 - https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
@@ -17,7 +17,7 @@ How to setup a 4G/LTE EVil Twin Base Station. Similar to @Evilsocket's How To Bu
 
 - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/ "Within the penetration testing domain quite often we have to deal with different technologies and devices.  It’s important to cover all aspects of connectivity of a device being tested which is why we have built a GSM/GPRS interception capability. There are a number of different devices and systems that make use of GSM/GPRS, non-exhaustively we commonly see:"
 
-# Rogue Base Statipns (Evil BTS, Evil 3g/4G, Rogue BTS)
+# Rogue Base Stations (Evil BTS, Evil 3g/4G, Rogue BTS)
 [OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
 
 [YateBTS](https://yatebts.com/) is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
@@ -52,7 +52,7 @@ attacks using a fake base station
 - [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
 - [New Vulnerabilities in 5G Networks](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
 
-## Cellular Attacks - (2G-5G)
+## Cellular Attacks
 
 - [QCSniper - A tool For capture 2g-4g air traffic using qualcomm phones ](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/)
 - [This is Your President Speaking:
@@ -110,7 +110,6 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 
 ## Github/Code Repo's
 
-## Synactiv
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
 
