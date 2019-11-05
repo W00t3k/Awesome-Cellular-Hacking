@@ -1,30 +1,56 @@
+## Contents
+
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
+# [↑](#contents)GSM Traffic Impersonation and Interception 
 
-## Usenix
+- [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
+My own walkthrough on how to setup a 4g BTS. I used this device to test for known weakness in a variety of cellular endpoints. I was successful with srsLTE, and a USRP
+- [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
+@Evilsocket explains that you can create a 3G/GSM using a BladeRf, and carfeully configuraing the software, and the fw version. Some of this informatoin is outdated, and requres a newer version of OpenBTS, but still remains an extremely useful 
+- [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
+Foundtainal piece
+- https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
+- https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
+- http://leetupload.com/blagosphere/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
+
+- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
+
+Common issues:
+- Improper FW
+- Lack of proper antennas
+- Wrong cellular phone type 
+- Wrong SIM
+- Not configured correctly - Mobile Country Codes (MCC) and Mobile Network Codes (MNC)
+- Incorrect software BTS settings
+- Virtualized platform is not fast enough
+- Wrong SDR firmware
+
+## CERT/Media Alerts
+
+- [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
+
+## Recent Conference Talks/Presentations 
+
+# Usenix
 
 - [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf) - This attack, which is referred to as signal overshadowing (named SigOver) has several advantages and differences when compared with existing
 attacks using a fake base station
 
-## Defcon/BH 2019
+# Defcon/BH 2019
 
 - [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
 - [New Vulnerabilities in 5G Networks](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
 
-## Contents
+## Cellular Attacks - (2G-5G)
 
-
-- [60_Practical_Attacks_On_VoLTE_And_VoWiFi](https://static.ernw.de/whitepaper/ERNW_Whitepaper_60_Practical_Attacks_On_VoLTE_And_VoWiFi_v1.0.pdf)
 - [QCSniper - A tool For capture 2g-4g air traffic using qualcomm phones ](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/)
 - [This is Your President Speaking:
 Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
-- [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
-- [USING A HACKRF TO REVERSE ENGINEER AND CONTROL RESTAURANT PAGERS](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [Hacking Public Warning System in LTE Mobile Networks](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)
-- [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
 - [RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)
 - [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://youtu.be/hNDChDM1hEE) 
 - [Hacking Cellular Networks](https://www.openairinterface.org/docs/workshop/3_OAI_Workshop_20170427/Session2_UE/Lin_Huan_-_UE_Security.pdf)
@@ -48,7 +74,6 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 - [LTE Recon - (Defcon 23)](https://www.rtl-sdr.com/one-more-rtl-sdr-talk-from-defcon-23/)
 - [LTE Pwnage: Hacking	HLR/HSS	and	MME CoreNetwork	Elements](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T2%20-%20Philippe%20Langlois%20-%20Hacking%20HLR%20HSS%20and%20MME%20Core%20Network%20Elements.pdf)
 - [Synacktiv](https://www.synacktiv.com/ressources/sstic_rump_2018_modmobjam.pdf)
-- [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
 - [Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - [WiFi IMSI Catcher](https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf)
@@ -58,7 +83,14 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
 - [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack] (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
 
-# [↑](#contents)Evil BTS
+
+## [↑](#contents)SIM Specific Attacks
+
+- [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
+- [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
+
+
+# [↑](#contents)Evil Base Stations (Evil BTS, Evil 3g/4G, Rogue BTS)
 [OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
 
 [YateBTS](https://yatebts.com/) is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
@@ -67,51 +99,31 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 
 [srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
 
-# GSM Traffic Impersonation and Interception Related Blogs
 
-- [EVIL LTE TWIN/IMSI CATCHER](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
-- [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
-- https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
-- https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
-- http://leetupload.com/blagosphere/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
-- [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
-- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
-
-Common issues:
-- Improper FW
-- Lack of proper antennas
-- Wrong cellular phone type 
-- Wrong SIM
-- Not configured correctly - Mobile Country Codes (MCC) and Mobile Network Codes (MNC)
-- Incorrect software BTS settings
-- Virtualized platform is not fast enough
-- Wrong SDR firmware
-
-## Stingray's
+## [↑](#contents) Stingray's
 
 - https://www.wired.com/story/dcs-stingray-dhs-surveillance/
 - https://www.vice.com/en_us/article/gv5k3x/heres-how-much-a-stingray-cell-phone-surveillance-tool-costs
 - https://www.nyclu.org/en/stingrays
 
-## SS7/Telecom Specific
+## [↑]SS7/Telecom Specific
 
 - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
 - [Getting in the SS7  kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
 
-## Jamming and Mapping
+## [↑] Github/Code Repo's
+
+##Synactiv
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
 
-## Scanning
+# Misc IMSI/Cellular Tools 
 * https://github.com/Evrytania/LTE-Cell-Scanner
 * https://harrisonsand.com/imsi-catcher/
 * https://github.com/Oros42/IMSI-catcher
 * https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 * https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher
 
-## CERT/Media Alerts
-
-- [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
 ## [↑](#contents)Resources
 * [RTL-SDR](https://www.rtl-sdr.com/) 
@@ -122,5 +134,6 @@ Common issues:
 
 ## Misc
 
+- [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - https://www.eff.org/pages/cell-site-simulatorsimsi-catchers
 - [AT&T Microcell FAIL - fail0verflow (Older blog article, but still a good read)](https://fail0verflow.com/blog/2012/microcell-fail/)
