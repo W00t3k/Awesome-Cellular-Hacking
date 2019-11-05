@@ -1,23 +1,30 @@
-## Contents
-
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
 
-# [↑](#contents)GSM Traffic Impersonation and Interception 
+## Rogue BTS & CDMA/GSM Traffic Impersonation and Interception 
 
 - [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
-My own walkthrough on how to setup a 4g BTS. I used this device to test for known weakness in a variety of cellular endpoints. I was successful with srsLTE, and a USRP
+How to setup a 4G/LTE EVil Twin Base Station. Similar to @Evilsocket's How To Build Your Own Rogue GSM BTS For Fun and Profit  but using 4G components.
 - [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
-@Evilsocket explains that you can create a 3G/GSM using a BladeRf, and carfeully configuraing the software, and the fw version. Some of this informatoin is outdated, and requres a newer version of OpenBTS, but still remains an extremely useful 
+@Evilsocket explains that you can create a 3G/GSM using a BladeRf, and carefully configuring the software, and the fw version. Some of this information is outdated, and requires a newer version of OpenBTS, but still remains an extremely useful resource useful 
 - [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
-Foundtainal piece
+"Impersonating a cellular base station with SDR: With the flexibility, relative low cost of Software Defined Radio (SDR) and abundance of open source projects that emulate a cell tower, successfully impersonating a GSM Base Station (BTS) is not a difficult task these days."
 - https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
-- https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
-- http://leetupload.com/blagosphere/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
+"I was always amazed when I read articles published by some hackers related to GSM technology. However, playing with GSM technologies was not cheap until the arrival of Software Defined Radios (SDRs), besides not being something easy to be implemented.
+- https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/ "The RTL-SDR software defined radio can be used to analyze cellular phone GSM signals, using Linux based tools GR-GSM (or Airprobe) and Wireshark. This tutorial shows how to set up these tools for use with the RTL-SDR."
 
-- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/
+- https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/ "Within the penetration testing domain quite often we have to deal with different technologies and devices.  It’s important to cover all aspects of connectivity of a device being tested which is why we have built a GSM/GPRS interception capability. There are a number of different devices and systems that make use of GSM/GPRS, non-exhaustively we commonly see:"
+
+# Rogue Base Statipns (Evil BTS, Evil 3g/4G, Rogue BTS)
+[OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
+
+[YateBTS](https://yatebts.com/) is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
+
+- [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
+
+[srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
 
 Common issues:
 - Improper FW
@@ -84,36 +91,26 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 - [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack] (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
 
 
-## [↑](#contents)SIM Specific Attacks
+## SIM Specific Attacks
 
 - [Rooting SIM-cards](https://media.blackhat.com/us-13/us-13-Nohl-Rooting-SIM-cards-Slides.pdf)
 - [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
 
 
-# [↑](#contents)Evil Base Stations (Evil BTS, Evil 3g/4G, Rogue BTS)
-[OpenBTS software](http://openbts.org/) is a Linux application that uses a software-defined radio to present a standard 3GPP air interface to user devices, while simultaneously presenting those devices as SIP endpoints to the Internet
-
-[YateBTS](https://yatebts.com/) is a software implementation of a GSM/GPRS radio access network based on Yate and is compatible with both 2.5G and 4G core networks comprised in our YateUCN unified core network server. Resiliency, customization and technology independence are the main attributes of YateBTS
-
-- [bladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
-
-[srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
-
-
-## [↑](#contents) Stingray's
+## Stingray's
 
 - https://www.wired.com/story/dcs-stingray-dhs-surveillance/
 - https://www.vice.com/en_us/article/gv5k3x/heres-how-much-a-stingray-cell-phone-surveillance-tool-costs
 - https://www.nyclu.org/en/stingrays
 
-## [↑]SS7/Telecom Specific
+## SS7/Telecom Specific
 
 - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
 - [Getting in the SS7  kingdom: hard technology and disturbingly easy hacks= to get entry points in the walled garden](http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf)
 
-## [↑] Github/Code Repo's
+## Github/Code Repo's
 
-##Synactiv
+## Synactiv
 * https://github.com/Synacktiv-contrib/Modmobjam
 * https://github.com/Synacktiv-contrib/Modmobmap
 
@@ -125,7 +122,7 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 * https://github.com/ptrkrysik/gr-gsm/wiki/Passive-IMSI-Catcher
 
 
-## [↑](#contents)Resources
+## Resources
 * [RTL-SDR](https://www.rtl-sdr.com/) 
 * [MCC-MNC Codes for Base Stations](http://www.mcc-mnc.com/)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)
@@ -136,4 +133,5 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 
 - [Touching the Untouchables: Dynamic Security](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)
 - https://www.eff.org/pages/cell-site-simulatorsimsi-catchers
+- http://leetupload.com/blagosphere/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
 - [AT&T Microcell FAIL - fail0verflow (Older blog article, but still a good read)](https://fail0verflow.com/blog/2012/microcell-fail/)
