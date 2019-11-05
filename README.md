@@ -6,7 +6,7 @@ The idea is to collect information like the BMW article below, that slowly gets 
 ## Rogue BTS & CDMA/GSM Traffic Impersonation and Interception 
 
 - [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
-How to setup a 4G/LTE EVil Twin Base Station. Similar to @Evilsocket's How To Build Your Own Rogue GSM BTS For Fun and Profit  but adapted for some LTE 4G Testing/Use Cases
+How to setup a 4G/LTE EVil Twin Base Station using srsLTE and a USRP SDR device.
 - [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 "In this blog post I’m going to explain how to create a portable GSM BTS which can be used either to create a private ( and vendor free! ) GSM network or for GSM active tapping/interception/hijacking … yes, with some (relatively) cheap electronic equipment you can basically build something very similar to what the governments are using from years to perform GSM interception."
 - [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
