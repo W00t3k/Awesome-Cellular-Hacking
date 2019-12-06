@@ -47,8 +47,9 @@ Common issues:
 - [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf) - This attack, which is referred to as signal overshadowing (named SigOver) has several advantages and differences when compared with existing
 attacks using a fake base station
 
-# Defcon/BH 2019
+# New Conference Talks
 
+- [Side Channel Analysis in 4G and 5G Cellular Networks](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf) 
 - [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
 - [New Vulnerabilities in 5G Networks](https://threatpost.com/5g-security-flaw-mitm-targeted-attacks/147073/)
 
