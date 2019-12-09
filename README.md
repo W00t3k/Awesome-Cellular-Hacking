@@ -91,7 +91,8 @@ Spoofing Alerts in 4G LTE Networks](Link removed, will upload pdf)
 - (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [D1T2 - Bypassing GSMA Recommendations on SS7 Networks - Kirill Puzankov](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/D1T2%20-%20Bypassing%20GSMA%20Recommendations%20on%20SS7%20Networks%20-%20Kirill%20Puzankov.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
-- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack] (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
+- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
+- [Gotta Catch ’Em All - Understanding how IMSI-Catchers exploit cell networks (probably)](https://www.eff.org/files/2019/07/09/whitepaper_imsicatchers_eff_0.pdf)
 
 
 ## SIM Specific Attacks
