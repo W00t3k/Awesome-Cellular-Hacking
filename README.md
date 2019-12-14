@@ -26,6 +26,39 @@ How to setup a 4G/LTE Evil Twin Base Station using srsLTE and a USRP SDR device.
 
 [srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
 
+# Installing a USRP Device on Linux
+
+
+``` 
+sudo add-apt-repository ppa:ettusresearch/uhd
+sudo apt-get update
+sudo apt-get install libuhd-dev libuhd003 uhd-host
+uhd_find_devices
+cd /usr/lib/uhd/utils/
+./uhd_images_downloader.py
+sudo uhd_usrp_probe 
+```
+
+```
+sudo uhd_usrp_probe
+[INFO] [UHD] linux; GNU C++ version 7.4.0; Boost_106501; UHD_3.14.1.1-release
+[INFO] [B200] Detected Device: B*****
+[INFO] [B200] Operating over USB 3.
+[INFO] [B200] Initialize CODEC control...
+[INFO] [B200] Initialize Radio control...
+[INFO] [B200] Performing register loopback test...
+[INFO] [B200] Register loopback test passed
+[INFO] [B200] Setting master clock rate selection to 'automatic'.
+[INFO] [B200] Asking for clock rate 16.000000 MHz...
+[INFO] [B200] Actually got clock rate 16.000000 MHz.
+  _____________________________________________________
+ /
+|       Device: B-Series Device
+
+```
+
+## Troubleshooting SDR's that are running BTS software
+
 Common issues:
 - Improper FW
 - Lack of proper antennas
@@ -35,6 +68,7 @@ Common issues:
 - Incorrect software BTS settings
 - Virtualized platform is not fast enough
 - Wrong SDR firmware
+
 
 ## CERT/Media Alerts
 
