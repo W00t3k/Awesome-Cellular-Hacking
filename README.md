@@ -28,7 +28,6 @@ How to setup a 4G/LTE Evil Twin Base Station using srsLTE and a USRP SDR device.
 
 # Installing a USRP Device on Linux
 
-
 ``` 
 sudo add-apt-repository ppa:ettusresearch/uhd
 sudo apt-get update
@@ -75,6 +74,10 @@ Common issues:
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
 ## Recent Conference Talks/Presentations 
+
+# Shmoocon 2019 (Talk Not available yet) 
+
+- [5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf)
 
 # Usenix
 
