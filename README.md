@@ -76,6 +76,8 @@ Common issues:
 ## Recent Conference Talks/Presentations 
 
 
+
+- [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf)
 - [5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf)
 
 - [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)
