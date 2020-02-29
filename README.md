@@ -73,13 +73,11 @@ Common issues:
 
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
-## Recent Conference Talks/Presentations 
+## Recent Conferences and Talks 
 
-
-
+- [Protecting the 4G and 5G Cellular PagingProtocols against Security and Privacy Attacks](https://www.degruyter.com/downloadpdf/j/popets.2020.2020.issue-1/popets-2020-0008/popets-2020-0008.pdf)
 - [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf)
 - [5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf)
-
 - [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)
 
 - [LTE Security Disabled—Misconfiguration in Commercial Network](https://www.infsec.ruhr-uni-bochum.de/media/infsec/veroeffentlichungen/2019/04/23/wisec19-final123.pdf)
