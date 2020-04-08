@@ -69,6 +69,30 @@ Common issues:
 - Wrong SDR firmware
 
 
+## [JAMMING SPECIFC ATTACKS](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf)
+
+4.5 Radio Jamming Attacks
+Jamming attacks are a method of interrupting access to cellular networks by exploiting the radio
+frequency channel being used to transmit and receive information. Specifically, this attack occurs
+by decreasing the signal to noise ratio by transmitting static and/or noise at high power levels
+across a given frequency band. This classification of attack can be accomplished in a variety of
+ways requiring a varying level of skill and access to specialized equipment. Jamming that targets
+specific channels in the LTE spectrum and is timed specifically to avoid detection is often
+referred to as smart jamming. Broadcasting noise on a large swath of RF frequencies is referred
+to as dumb jamming.
+
+4.5.1 Jamming UE Radio Interface
+A low cost, high complexity attack has been proposed to prevent the transmission of UE
+signaling to an eNodeB. 
+
+4.5.2 Jamming eNodeB Radio Interface
+Base stations may have physical (e.g., fiber optic) or wireless (e.g., microwave) links to other
+base stations. These links are often used to perform call handoff operations. As mentioned in
+section 4.5.1, it may be possible to jam the wireless connections eNodeBs use to communicate
+with each other. Although theoretical, the same type of smart jamming attacks that are used
+against the UE could be modified to target communicating eNodeBs, which would prevent the
+transmission of eNodeB to eNodeB RF communication.
+
 ## CERT/Media Alerts
 
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
