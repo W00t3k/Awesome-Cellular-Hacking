@@ -111,6 +111,7 @@ transmission of eNodeB to eNodeB RF communication.
 - [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 
 ## 2G-4G/LTE Cellular Attacks
+- [Paging Storm Attacks against 4G/LTE Networks from Regional Android Botnets: Rationale, Practicality, and Implications](https://http://www.cs.binghamton.edu/~ghyan/papers/wisec20.pdf)
 - [This is Your President Speaking:Spoofing Alerts in 4G LTE Networks](https://netstech.org/wp-content/uploads/2019/06/cmas-mobisys2019.pdf)
 - [Hacking Public Warning System in LTE Mobile Networks](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)
 - [RF Exploitation: IoT/OT Hacking with SDR](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D2%20-%20Demystifying%20IoT:OT%20Hacks%20With%20SDR%20-%20Himanshu%20Mehta%20&%20Harshit%20Agrawal.pdf)
