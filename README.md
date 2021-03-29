@@ -99,6 +99,7 @@ transmission of eNodeB to eNodeB RF communication.
 
 
 ## 5G Cellular Attacks
+- [Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)
 - [Threat modeling framework for mobile communication system](https://arxiv.org/pdf/2005.05110v1.pdf)
 - [ENISA THREAT LANDSCAPE FOR 5G NETWORKS](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ENISA%20threat%20landscape%20for%205G%20Networks.pdf)
 - [Protecting the 4G and 5G Cellular PagingProtocols against Security and Privacy Attacks](https://www.degruyter.com/downloadpdf/j/popets.2020.2020.issue-1/popets-2020-0008/popets-2020-0008.pdf)
