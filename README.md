@@ -93,8 +93,10 @@ with each other. Although theoretical, the same type of smart jamming attacks th
 against the UE could be modified to target communicating eNodeBs, which would prevent the
 transmission of eNodeB to eNodeB RF communication.
 
-## CERT/Media Alerts
+## [Recent SeaGlass IMSI-Catcher News](https://seaglass.cs.washington.edu/)
+- [SeaGlass: Enabling City-Wide IMSI-Catcher Detection](https://seaglass-web.s3.amazonaws.com/SeaGlass___PETS_2017.pdf)
 
+## CERT/Media Alerts
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
 
@@ -143,7 +145,7 @@ transmission of eNodeB to eNodeB RF communication.
 - [Demystifying the Mobile Network by Chuck McAuley](http://2014.video.sector.ca/video/110383258)
 - (https://www.defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf)
 - [VoLTE Phreaking - Ralph Moonen](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/HAXPO%20D1%20-%20VoLTE%20Phreaking%20-%20Ralph%20Moonen.pdf)
-- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack] (https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
+- [Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stack](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)
 - [Hiding in Plain Signal:Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)
 - [LTE Security Disabled—Misconfiguration in Commercial Network](https://www.infsec.ruhr-uni-bochum.de/media/infsec/veroeffentlichungen/2019/04/23/wisec19-final123.pdf)
 - [Shupeng-All-The-4G-Modules-Could-Be-Hacked](https://i.blackhat.com/USA-19/Wednesday/us-19-Shupeng-All-The-4G-Modules-Could-Be-Hacked.pdf)
