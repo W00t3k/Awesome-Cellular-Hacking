@@ -93,6 +93,21 @@ with each other. Although theoretical, the same type of smart jamming attacks th
 against the UE could be modified to target communicating eNodeBs, which would prevent the
 transmission of eNodeB to eNodeB RF communication.
 
+# Blackhat 2021 Talks
+- [Over The Air Baseband Exploit: Gaining Remote Code Execution on 5G Smartphones Deck](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Over-The-Air-Baseband-Exploit-Gaining-Remote-Code-Execution-On-5G-Smartphones.pdf)
+- [Over The Air Baseband Exploit: Gaining Remote Code Execution on 5G Smartphones](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Over-The-Air-Baseband-Exploit-Gaining-Remote-Code-Execution-On-5G-Smartphones-wp.pdf)
+
+  ## Equipment used in "Over The Air Baseband Exploit: Gaining Remote Code Execution on 5G Smartphones"
+
+* [Ettus USRP B210](https://www.ettus.com/all-products/ub210-kit/)
+* [srsENB](https://github.com/srsran/srsRAN/tree/master/srsenb)
+* [Open5GS](https://github.com/open5gs)
+* [sysmo-usim-tool](https://osmocom.org/projects/cellular-infrastructure/wiki/SysmoISIM-SJA2)
+* [pysim](https://github.com/osmocom/pysim)
+* [CoIMS](https://play.google.com/store/apps/details?id=com.sherle.coims&hl=en_US&gl=US)
+* [CoIMS_Wiki](https://github.com/herlesupreeth/CoIMS_Wiki/)
+* [Docker_open5gs](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)
+
 ## [Recent SeaGlass IMSI-Catcher News](https://seaglass.cs.washington.edu/)
 - [SeaGlass: Enabling City-Wide IMSI-Catcher Detection](https://seaglass-web.s3.amazonaws.com/SeaGlass___PETS_2017.pdf)
 
