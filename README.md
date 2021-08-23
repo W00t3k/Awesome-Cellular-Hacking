@@ -116,7 +116,7 @@ transmission of eNodeB to eNodeB RF communication.
 ## 5G Cellular Attacks
 - [Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)
 - [Threat modeling framework for mobile communication system](https://arxiv.org/pdf/2005.05110v1.pdf)
-- [ENISA THREAT LANDSCAPE FOR 5G NETWORKS](https://github.com/W00t3k/Awesome-CellularHacking/blob/master/ENISA%20threat%20landscape%20for%205G%20Networks.pdf)
+- [ENISA THREAT LANDSCAPE FOR 5G NETWORKS](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ENISA%20threat%20landscape%20for%205G%20Networks.pdf)
 - [Protecting the 4G and 5G Cellular PagingProtocols against Security and Privacy Attacks](https://www.degruyter.com/downloadpdf/j/popets.2020.2020.issue-1/popets-2020-0008/popets-2020-0008.pdf)
 - [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf)
 - [5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf)
@@ -139,7 +139,8 @@ transmission of eNodeB to eNodeB RF communication.
 - [Bye-Bye-IMSI-Catchers](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
-- [LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation](https://github.com/W00t3k/Awesome-cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)
+- [LTE/LTE-A Jamming, Spoofing, and Sniffing
+-  Assessment and Mitigation](https://github.com/W00t3k/Awesome-cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)
 - [Exploring LTE security and protocol exploits with open source software and low-cost software radio by Roger Jover](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_open_source_HackerHalted.pdf)
 - [LTE PROTOCOL EXPLOITS: IMSI CATCHERS,BLOCKING DEVICES AND LOCATION LEAKS](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_security_TakeDownCon.pdf)
 - [Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)
