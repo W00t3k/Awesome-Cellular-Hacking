@@ -5,15 +5,13 @@ The idea is to collect information like the BMW article below, that slowly gets 
 
 ## Rogue BTS & CDMA/GSM Traffic Impersonation and Interception 
 
-- [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
-How to setup a 4G/LTE Evil Twin Base Station using srsLTE and a USRP SDR device.
 - [How To Build Your Own Rogue GSM BTS For Fun and Profit](https://www.evilsocket.net/2016/03/31/How-To-Build-Your-Own-Rogue-GSM-BTS-For-Fun-And-Profit/)
 "In this blog post I’m going to explain how to create a portable GSM BTS which can be used either to create a private ( and vendor free! ) GSM network or for GSM active tapping/interception/hijacking … yes, with some (relatively) cheap electronic equipment you can basically build something very similar to what the governments are using from years to perform GSM interception."
+- [How to create an Evil LTE Twin/LTE Rogue BTS](https://adam-toscher.medium.com/how-to-create-an-evil-lte-twin-34b0a9ce193b)
+How to setup a 4G/LTE Evil Twin Base Station using srsLTE and a USRP SDR device.
 - [Practical attacks against GSM networks: Impersonation](https://blog.blazeinfosec.com/practical-attacks-against-gsm-networks-part-1/)
 "Impersonating a cellular base station with SDR: With the flexibility, relative low cost of Software Defined Radio (SDR) and abundance of open source projects that emulate a cell tower, successfully impersonating a GSM Base Station (BTS) is not a difficult task these days."
-- [Building a Portable GSM BTS Using BladeRF/PI](https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/)
-"I was always amazed when I read articles published by some hackers related to GSM technology. However, playing with GSM technologies was not cheap until the arrival of Software Defined Radios (SDRs), besides not being something easy to be implemented."
-- [rtl.sdr.com Tutorial-Analyzing GSM with-Airprobe and Wireshark](https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/) "The RTL-SDR software defined radio can be used to analyze cellular phone GSM signals, using Linux based tools GR-GSM (or Airprobe) and Wireshark. This tutorial shows how to set up these tools for use with the RTL-SDR."
+- [Tutorial-Analyzing GSM with-Airprobe and Wireshark](https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/) "The RTL-SDR software defined radio can be used to analyze cellular phone GSM signals, using Linux based tools GR-GSM (or Airprobe) and Wireshark. This tutorial shows how to set up these tools for use with the RTL-SDR."
 - [Traffic Interception for Penetration Testing Engagements](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/) "Within the penetration testing domain quite often we have to deal with different technologies and devices.  It’s important to cover all aspects of connectivity of a device being tested which is why we have built a GSM/GPRS interception capability. There are a number of different devices and systems that make use of GSM/GPRS, non-exhaustively we commonly see:"
 
 # Rogue Base Stations or Evil BTS's, 2G/3G/4G
