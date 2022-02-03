@@ -22,7 +22,7 @@ How to setup a 4G/LTE Evil Twin Base Station using srsLTE and a USRP SDR device.
 
 [BladRF and YateBTS Configuration](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
 
-[srsLTE](https://github.com/srsLTE/srsLTE) is a free and open-source LTE software suite developed by SRS (www.softwareradiosystems.com)
+[srsRAN](https://github.com/srsLTE/srsLTE) is an Open-source 4G and 5G software radio suite developed by Software Radio Systems (SRS). (www.softwareradiosystems.com) The srsLTE project has evolved. We are now srsRAN
 
 # Installing a USRP Device on Linux
 
