@@ -128,6 +128,7 @@ transmission of eNodeB to eNodeB RF communication.
 - [5G NR Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/5gjam.pdf)
 
 ## 4G/LTE Cellular Attacks
+- [LTRACK: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/system/files/sec22summer_kotuliak.pdf) 
 - [Detecting Fake 4G Base Stations In Real Time](https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf)
 - [BaseSAFE: Baseband SAnitized Fuzzing through Emulation](https://arxiv.org/pdf/2005.07797.pdf)
 - [Paging Storm Attacks against 4G/LTE Networks from Regional Android Botnets: Rationale, Practicality, and Implications](https://www.cs.binghamton.edu/~ghyan/papers/wisec20.pdf)
