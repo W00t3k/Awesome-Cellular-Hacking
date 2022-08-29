@@ -91,6 +91,9 @@ with each other. Although theoretical, the same type of smart jamming attacks th
 against the UE could be modified to target communicating eNodeBs, which would prevent the
 transmission of eNodeB to eNodeB RF communication.
 
+ # Blackhat 2022 Talks
+ - [Attacks from a New Front Door in 4G & 5G mobile networks](https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf)
+ 
 # Blackhat 2021 Talks
 - [Over The Air Baseband Exploit: Gaining Remote Code Execution on 5G Smartphones Deck](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Over-The-Air-Baseband-Exploit-Gaining-Remote-Code-Execution-On-5G-Smartphones.pdf)
 - [Over The Air Baseband Exploit: Gaining Remote Code Execution on 5G Smartphones](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Over-The-Air-Baseband-Exploit-Gaining-Remote-Code-Execution-On-5G-Smartphones-wp.pdf)
