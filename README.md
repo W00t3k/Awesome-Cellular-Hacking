@@ -1,4 +1,5 @@
-# Awesome-Cellular-Hacking 
+
+# Awesome-Cellular-Hacking (-In the process of Updating-)
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
 The idea is to collect information like the BMW article below, that slowly gets cleared and wiped up from the Internet - making it less accessible, and harder to find. Feel free to email me any document or link to add.
@@ -91,6 +92,8 @@ with each other. Although theoretical, the same type of smart jamming attacks th
 against the UE could be modified to target communicating eNodeBs, which would prevent the
 transmission of eNodeB to eNodeB RF communication.
 
+ # *- To be updated - "TALK" section - To be updated -*
+
  # Blackhat 2022 Talks
  - [Attacks from a New Front Door in 4G & 5G mobile networks](https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf)
  
@@ -109,14 +112,14 @@ transmission of eNodeB to eNodeB RF communication.
 * [CoIMS_Wiki](https://github.com/herlesupreeth/CoIMS_Wiki/)
 * [Docker_open5gs](https://open5gs.org/open5gs/docs/tutorial/03-VoLTE-dockerized/)
 
-## [Recent SeaGlass IMSI-Catcher News](https://seaglass.cs.washington.edu/)
+## [Recent SeaGlass IMSI-Catcher News](https://seaglass.cs.washington.edu/) - Organizing -
 - [SeaGlass: Enabling City-Wide IMSI-Catcher Detection](https://seaglass-web.s3.amazonaws.com/SeaGlass___PETS_2017.pdf)
 
 ## CERT/Media Alerts
 - [Voice over LTE implementations contain multiple vulnerabilities - CERT ALERT](https://www.kb.cert.org/vuls/id/943167/)
 
 
-## 5G Cellular Attacks
+## 5G Cellular Attacks (Soon to be updated)
 - [Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information](https://assets.documentcloud.org/documents/5749002/4G-5G-paper-at-NDSS-2019.pdf)
 - [European 5G Security in the Wild: Reality versus Expectations](https://arxiv.org/pdf/2305.08635.pdf)
 - [Threat modeling framework for mobile communication system](https://arxiv.org/pdf/2005.05110v1.pdf)
