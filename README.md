@@ -1,4 +1,4 @@
-# Awesome Cellular Hacking
+# Awesome Cellular Hacking - Complete Collection 2025
 
 > A comprehensive curated list of resources for 2G/3G/4G/5G cellular security research and analysis
 
@@ -140,14 +140,44 @@ sudo uhd_usrp_probe
 
 ### SDR Hardware Options
 
-| Hardware | Frequency Range | Bandwidth | Use Case | Link |
-|----------|----------------|-----------|----------|------|
-| **Ettus USRP B210** | 70 MHz - 6 GHz | 61.44 MHz | Professional development | [Ettus](https://www.ettus.com/all-products/ub210-kit/) |
-| **HackRF One** | 1 MHz - 6 GHz | 20 MHz | Budget-friendly option | [Great Scott Gadgets](https://greatscottgadgets.com/hackrf/) |
-| **BladeRF 2.0** | 47 MHz - 6 GHz | 61.44 MHz | High performance SDR | [Nuand](https://www.nuand.com/) |
-| **PlutoSDR** | 325 MHz - 3.8 GHz | 20 MHz | Education and learning | [Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html) |
-| **LimeSDR** | 100 kHz - 3.8 GHz | 61.44 MHz | Open source design | [Lime Microsystems](https://limemicro.com/) |
-| **YARD Stick One** | Sub-1 GHz | 400-464 MHz | IoT cellular frequencies | [Great Scott Gadgets](https://greatscottgadgets.com/yardstickone/) |
+| Hardware | Frequency Range | Bandwidth | Price Range | Use Case | Link |
+|----------|----------------|-----------|-------------|----------|------|
+| **Ettus Research (USRP)** | | | | | |
+| **USRP B210** | 70 MHz - 6 GHz | 61.44 MHz | $2,100 | Professional development, 2x2 MIMO | [Ettus](https://www.ettus.com/all-products/ub210-kit/) |
+| **USRP B200mini** | 70 MHz - 6 GHz | 61.44 MHz | $775 | Compact USRP B-series | [Ettus](https://www.ettus.com/) |
+| **USRP N210** | DC - 6 GHz | 25 MHz | $1,700 | High-performance networked SDR | [Ettus](https://www.ettus.com/) |
+| **USRP N320** | 1 MHz - 6 GHz | 200 MHz | $8,000 | High-end networked 2x2 MIMO | [Ettus](https://www.ettus.com/) |
+| **USRP X310** | DC - 6 GHz | 160 MHz | $6,000 | High-performance desktop/rack | [Ettus](https://www.ettus.com/all-products/x310-kit/) |
+| **USRP X410** | 1 MHz - 7.2 GHz | 400 MHz | $15,000 | Latest high-performance 4x4 MIMO | [Ettus](https://www.ettus.com/) |
+| **USRP X440** | 30 MHz - 4 GHz | 1.6 GHz | $25,000+ | Latest 8x8 MIMO RFSoC platform | [Ettus](https://www.ettus.com/) |
+| **USRP E320** | 70 MHz - 6 GHz | 56 MHz | $4,000 | Embedded 2x2 MIMO SDR | [Ettus](https://www.ettus.com/) |
+| **Nuand (BladeRF)** | | | | | |
+| **BladeRF 2.0 xA4** | 47 MHz - 6 GHz | 61.44 MHz | $420 | Budget 2x2 MIMO development | [Nuand](https://www.nuand.com/product/bladerf-xa4/) |
+| **BladeRF 2.0 xA9** | 47 MHz - 6 GHz | 61.44 MHz | $720 | High FPGA resources, 2x2 MIMO | [Nuand](https://www.nuand.com/product/bladerf-xa9/) |
+| **BladeRF x40 (Legacy)** | 300 MHz - 3.8 GHz | 40 MHz | $400 | Entry-level legacy model | [Nuand](https://www.nuand.com/product/bladerf-x40/) |
+| **Great Scott Gadgets** | | | | | |
+| **HackRF One** | 1 MHz - 6 GHz | 20 MHz | $350 | Budget TX/RX development | [GSG](https://greatscottgadgets.com/hackrf/) |
+| **YARD Stick One** | 300-348, 391-464, 782-928 MHz | 2.5 MHz | $110 | Sub-GHz IoT frequencies | [GSG](https://greatscottgadgets.com/yardstickone/) |
+| **Lime Microsystems** | | | | | |
+| **LimeSDR USB** | 100 kHz - 3.8 GHz | 61.44 MHz | $289 | Open-source 2x2 MIMO | [Lime Micro](https://limemicro.com/sdr/limesdr-usb/) |
+| **LimeSDR Mini** | 10 MHz - 3.5 GHz | 30.72 MHz | $139 | Compact LimeSDR variant | [Lime Micro](https://limemicro.com/boards/limesdr-mini/) |
+| **LimeSDR Mini 2.0** | 10 MHz - 3.5 GHz | 30.72 MHz | $169 | Updated with ECP5 FPGA | [Lime Micro](https://limemicro.com/sdr/limesdr-mini-2-0/) |
+| **LimeSDR X3** | Various bands | Up to 61.44 MHz | $3,000+ | Professional 3x transceiver PCIe | [Lime Micro](https://limemicro.com/sdr/limesdr-x3/) |
+| **Analog Devices** | | | | | |
+| **PlutoSDR** | 325 MHz - 3.8 GHz | 20 MHz | $150 | Education and learning platform | [Analog Devices](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html) |
+| **RTL-SDR Blog** | | | | | |
+| **RTL-SDR V3** | 500 kHz - 1.75 GHz | 3.2 MHz | $35 | Ultra-budget RX-only scanner | [RTL-SDR](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) |
+| **RTL-SDR V4** | 500 kHz - 1.75 GHz | 3.2 MHz | $40 | Latest RTL-SDR with R828D | [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-blog-v4-dongle-initial-release/) |
+| **Airspy** | | | | | |
+| **Airspy R2** | 24 MHz - 1.8 GHz | 10 MHz | $200 | High-performance VHF/UHF scanner | [Airspy](https://airspy.com/) |
+| **Airspy Mini** | 24 MHz - 1.8 GHz | 6 MHz | $99 | Compact Airspy in dongle format | [Airspy](https://airspy.com/) |
+| **Airspy HF+ Discovery** | 9 kHz - 31 MHz, 60-260 MHz | 768 kHz | $169 | Dedicated HF reception | [Airspy](https://airspy.com/) |
+| **SDRplay** | | | | | |
+| **RSP1A** | 1 kHz - 2 GHz | 10 MHz | $119 | Wideband general purpose | [SDRplay](https://www.sdrplay.com/) |
+| **RSPdx** | 1 kHz - 2 GHz | 10 MHz | $299 | Professional features, dual antenna | [SDRplay](https://www.sdrplay.com/) |
+| **Red Pitaya** | | | | | |
+| **STEMlab 125-14** | DC - 60 MHz | 50 MHz | $600 | HF transceiver, lab instrument | [Red Pitaya](https://redpitaya.com/) |
+| **STEMlab 122-16** | DC - 50 MHz | Variable | $625 | High-resolution HF SDR/scope | [Red Pitaya](https://redpitaya.com/) |
 
 ### Common SDR Issues & Troubleshooting
 
