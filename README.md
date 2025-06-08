@@ -1,4 +1,4 @@
-# Awesome Cellular Hacking - Complete Collection 2025
+# Awesome Cellular Hacking
 
 > A comprehensive curated list of resources for 2G/3G/4G/5G cellular security research and analysis
 
@@ -196,9 +196,6 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 - **[New Privacy Threat on 3G, 4G, and Upcoming 5G AKA Protocols](https://arxiv.org/pdf/1905.07617.pdf)**
 - **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/wisec19-preprint.pdf)**
 - **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/popets-2020-0008.pdf)**
-- **[LTE Security and Protocol Exploits - ShmooCon 2016](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)**
-- **[Military Communications Conference 2018 - Slides](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)**
-- **[WiSec 2019 - Final Paper](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/wisec19.pdf)**
 
 ### LTE/4G Security Research
 
@@ -219,6 +216,9 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 - **[Hacking Public Warning System in LTE](https://conference.hitb.org/hitbsecconf2019ams/materials/HAXPO%20D1%20-%20Hacking%20LTE%20Public%20Warning%20Systems%20-%20Weiguang%20Li.pdf)**
 - **[Analysis of the LTE Control Plane](https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf)**
 - **[Baseband Attacks: Remote Exploitation](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf)**
+- **[LTE Security and Protocol Exploits - ShmooCon 2016](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)**
+- **[Military Communications Conference 2018 - Slides](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)**
+- **[WiSec 2019 - Final Paper](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/wisec19.pdf)**
 
 ## 🎤 Conference Talks
 
