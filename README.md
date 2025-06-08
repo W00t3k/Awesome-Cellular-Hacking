@@ -196,6 +196,9 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 - **[New Privacy Threat on 3G, 4G, and Upcoming 5G AKA Protocols](https://arxiv.org/pdf/1905.07617.pdf)**
 - **[Insecure Connection Bootstrapping in Cellular Networks](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/wisec19-preprint.pdf)**
 - **[Protecting 4G and 5G Cellular Paging Protocols](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/popets-2020-0008.pdf)**
+- **[LTE Security and Protocol Exploits - ShmooCon 2016](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/ShmooCon_talk_final_01162016.pdf)**
+- **[Military Communications Conference 2018 - Slides](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/milcom2018_slides_final.pdf)**
+- **[WiSec 2019 - Final Paper](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/wisec19.pdf)**
 
 ### LTE/4G Security Research
 
@@ -205,7 +208,7 @@ From [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIS
 - **[LTE Public Warning System Attacks](https://netstech.org/wp-content/uploads/2019/06/cmas-mobisys2019.pdf)**
 - **[Signal Overshadowing Attacks](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf)**
 - **[Breaking LTE on Layer Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)**
-- **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-cellularHacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)**
+- **[LTE/LTE-A Jamming, Spoofing, and Sniffing](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_Jamming_Magazine_Paper_final.pdf)**
 - **[LTE Protocol Exploits](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_security_TakeDownCon.pdf)**
 - **[Practical Attacks Against Privacy and Availability](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/Prac-4G-Attacks.pdf)**
 - **[LTE Security Assessment](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/LTE_open_source_HackerHalted.pdf)**
