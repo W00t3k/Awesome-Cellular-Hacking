@@ -73,6 +73,7 @@ New to cellular security research? This section outlines the recommended path fo
 
 ### Key Concepts to Understand First
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [3GPP Architecture Overview](https://www.3gpp.org/technologies/keywords-acronyms/98-lte): how UE, eNodeB, MME, SGW, PGW fit together
 - [IMSI, IMEI, TMSI](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity): subscriber identity fundamentals
 - [AKA Protocol](https://www.3gpp.org/ftp/specs/archive/33_series/33.401/): how authentication works in LTE
