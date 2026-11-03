@@ -998,3 +998,120 @@ This repository is for educational and research purposes only. Users are respons
 **Maintainer:** [@W00t3k](https://github.com/W00t3k)
 
 *Broken links or new resources? Open an issue or submit a PR.*
+
+
+---
+
+## Verified Cellular Security Research Additions (September-November 2026)
+
+> Append-only research update, November 3, 2026. The original resources above have been retained without modification. Entries below link to original research, published papers, vendor bulletins, or registered vulnerability disclosures. A published CVE or laboratory proof of concept does not by itself establish exploitation in the wild.
+
+### SMS, Messaging, and Mobile Network Availability
+
+- **[SMS of Death: Zero-Click Android Telephony DoS (CVE-2026-58882)](https://smsofdeath.com/)** — Mark B, Oct 29, 2026
+
+  Malformed WAP Push SMS messages trigger an exception in Android's telephony framework, crashing `com.android.phone` without user interaction and disrupting active calls, including emergency calls. Repeated processing can cause persistent service disruption or reboot loops on affected devices. [Google Security Bulletin](https://source.android.com/docs/security/bulletin/2026/2026-11-01) — Critical DoS; security patch level 2026-11-01.
+
+- **[Android November 2026 Security Bulletin: Telephony and Modem Fixes](https://source.android.com/docs/security/bulletin/2026/2026-11-01)** — Google, Nov 2, 2026
+
+  Official Android bulletin listing CVE-2026-58882 as a Critical System denial-of-service issue. Also includes critical MediaTek modem fixes and other platform vulnerabilities. Android and chipset patches may arrive on different schedules depending on device manufacturer and carrier.
+
+- **[Securing Cellular Network Availability Against Wireless Blackhole Attack](https://www.sciencedirect.com/science/article/pii/S0140366426001994)** — Computers Communications, 2026
+
+  Research on fake base stations manipulating broadcast control signaling to draw multiple subscribers away from legitimate 4G/5G service. Discusses the Wireless Blackhole threat and availability-focused countermeasures.
+
+### LTE/5G Core Networks, PFCP, GTP-C, and Service-Based Interfaces
+
+- **[iFinder: Understanding Implicit Trust Errors in Core Carrier Networks](https://linziyuu.github.io/iFinder-Website/)** — Nanyang Technological University, USENIX Security 2026
+
+  Multi-agent framework that identified 84 previously unknown vulnerabilities across seven LTE/5G core implementations, including Open5GS, free5GC, OpenAirInterface, SD-Core, and eUPF. Researchers report 83 confirmed findings and 81 assigned CVEs, with denial-of-service and subscriber session-hijacking impacts. [Research Paper](https://arxiv.org/abs/2607.10315)
+
+- **[CVE-2026-106805: free5GC PFCP Session Establishment Resource Exhaustion](https://github.com/free5gc/free5gc/issues/1162)** — Nov 2, 2026
+
+  Free5GC v4.2.3 can fail to release allocated UE IP addresses when PFCP Session Establishment responses do not arrive. Repeated failures can exhaust the address pool and block new PDU sessions. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106805)
+
+- **[CVE-2026-106806: Open5GS HTTP/2 SBI Memory Exhaustion](https://github.com/open5gs/open5gs/issues/4788)** — Nov 2, 2026
+
+  Duplicate HTTP/2 header processing can leak allocated strings in Open5GS v2.8.0. Repeated malformed requests to a reachable Service-Based Interface (SBI) can exhaust network-function memory and cause denial of service. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106806)
+
+- **[CVE-2026-106807: Open5GS PFCP Transaction Exhaustion](https://github.com/open5gs/open5gs/issues/4791)** — Nov 2, 2026
+
+  Resource exhaustion in Open5GS v2.8.0 PFCP transaction handling can trigger an unhandled assertion and terminate an SMF/UPF process. Exploitation requires the ability to send traffic to the affected PFCP interface. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106807)
+
+- **[CVE-2026-106808: OpenAirInterface UDM Authentication Endpoint Stack Overflow](https://github.com/openairinterface/oai-cn5g-udm/issues/4)** — Nov 2, 2026
+
+  OpenAirInterface CN5G v2.2.1 UDM does not adequately bound resynchronization data converted into fixed-size buffers. Crafted input from a party able to reach the SBI endpoint and supply a valid SUPI can crash the UDM. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-106808)
+
+- **[CVE-2026-117068: OpenAirInterface AMF NAS Registration Crash](https://github.com/openairinterface/oai-cn5g-amf/pull/26)** — Nov 2, 2026
+
+  A truncated SUCI in a NAS Registration Request can trigger integer underflow and an out-of-bounds read in the CN5G AMF v2.2.1 decoder, terminating the AMF process. [CVE Record](https://nvd.nist.gov/vuln/detail/CVE-2026-117068)
+
+- **[CVE-2026-25501: free5GC SMF PFCP Session Report Crash](https://github.com/free5gc/free5gc/security/advisories/GHSA-vq85-8f6p-g9q5)** — Feb 2026
+
+  A malformed PFCP SessionReportRequest with a Downlink Data Report flag but no corresponding information element triggers a nil-pointer dereference in free5GC SMF versions through 1.4.1. Restrict PFCP (UDP/8805) access to trusted network functions.
+
+- **[CVE-2026-26024: free5GC PFCP Usage Report Handling Crash](https://nvd.nist.gov/vuln/detail/CVE-2026-26024)** — Feb 2026
+
+  A malformed PFCP SessionReportRequest containing a Usage Report with a missing required URRID element can terminate the free5GC SMF in versions through 1.4.1. This is an interface-reachability-dependent denial-of-service issue.
+
+- **[CVE-2026-26025: free5GC PFCP Session Report Parsing DoS](https://nvd.nist.gov/vuln/detail/CVE-2026-26025)** — Feb 2026
+
+  Additional malformed PFCP SessionReportRequest handling issue affecting free5GC SMF versions through 1.4.1. A network actor able to send packets to the SMF's PFCP interface can cause process termination.
+
+- **[Integrity Under Siege: A Rogue gNodeB's Manipulation of 5G Network Slice Allocation](https://www.sciencedirect.com/science/article/pii/S1389128626004974)** — Computer Networks, Sep 2026
+
+  Experimental analysis of compromised network-slice allocation integrity using a rogue gNodeB. The paper reports quality-of-service degradation, fallback effects, resource contamination, and user-plane resource pressure.
+
+### SIM Security and Cellular Baseband Research
+
+- **[CATana: On the Dangers of SIM-Originating AT Commands](https://www.usenix.org/conference/woot26/presentation/lisowski)** — University of Birmingham / Fuzzware, USENIX WOOT 2026
+
+  Analyzes the SIM Toolkit RUN AT interface using the CATana toolkit. Nine of 26 tested smartphones and IoT devices exposed SIM-originating AT commands; researchers identified four vulnerabilities with impacts including command execution, file reading, 2G downgrade, and device denial of service.
+
+- **[SoK: Insecurity of Cellular Basebands](https://www.usenix.org/conference/woot26/presentation/carnot)** — EURECOM / Avantix, USENIX WOOT 2026
+
+  Systematization of cellular baseband attack surfaces and weaknesses, comparing static analysis, over-the-air testing, emulation, and fuzzing. Highlights current gaps in vulnerability discovery and baseband hardening.
+
+- **[CONSET: Confirmed 5G Pre-Authentication Baseband CVEs](https://cse.buffalo.edu/~hongxinh/news.html)** — University at Buffalo / Texas A&M, 2026
+
+  Follow-up disclosure details for the CONSET work already listed above: MediaTek CVE-2025-20666, CVE-2025-20644, and CVE-2025-20703 were assigned after researchers found semantic RRC parsing vulnerabilities. The USENIX Security 2026 paper reports seven previously unknown vulnerabilities affecting 64 chipset models and more than 542 phone models. [Conference Paper](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-qiqing)
+
+### 2026 Chipset and Modem Security Advisories
+
+- **[MediaTek November 2026 Security Bulletin](https://www.mediatek.com/product-security-bulletin/November-2026)** — MediaTek, Nov 2, 2026
+
+  Vendor-confirmed Critical modem out-of-bounds-write vulnerabilities CVE-2026-20499 and CVE-2026-20545 through CVE-2026-20549, plus additional High and Medium modem findings. Affected chipsets span multiple smartphone and cellular-IoT product families; consult the bulletin for precise models and OEM patch delivery.
+
+- **[MediaTek October 2026 Security Bulletin](https://www.mediatek.com/product-security-bulletin/October-2026)** — MediaTek, Oct 2026
+
+  Includes Critical modem memory-corruption vulnerabilities CVE-2026-20519 and CVE-2026-20520, and additional modem issues involving memory safety and input validation. The vendor bulletin was updated on October 30, 2026.
+
+- **[CVE-2026-20540: MediaTek Modem DoS via Rogue Base Station](https://nvd.nist.gov/vuln/detail/CVE-2026-20540)** — MediaTek, Oct 2026
+
+  A modem out-of-bounds read that can cause remote denial of service after a user device connects to an attacker-controlled rogue base station. Exploitation requires that radio-access condition and does not require additional user interaction.
+
+- **[MediaTek July 2026 Security Bulletin](https://www.mediatek.com/product-security-bulletin/July-2026)** — MediaTek, July 2026
+
+  Discloses High-severity modem vulnerabilities CVE-2026-20457 through CVE-2026-20461, including improper input validation and potential modem crashes across a range of mobile chipsets.
+
+- **[MediaTek May 2026 Security Bulletin](https://www.mediatek.com/product-security-bulletin/May-2026)** — MediaTek, May 2026
+
+  Includes modem vulnerabilities CVE-2026-20449 (heap buffer overflow) and CVE-2026-20450 (reachable assertion), both rated High severity and capable of crashing affected modem implementations.
+
+### Detection, Defense, and Standards-Based Validation
+
+- **[NIST CSWP 36G: False Base Station — Applying 5G Cybersecurity and Privacy Capabilities](https://csrc.nist.gov/pubs/cswp/36/g/false-base-station-applying-5g-cybersecurity-and-p/ipd)** — NIST NCCoE, Sep 30, 2026 (Initial Public Draft)
+
+  Evaluates 5G device behavior across six simulated fake-base-station scenarios in NIST's 5G security testbed. Covers availability, privacy, and remaining denial-of-service risks despite stronger 5G protections.
+
+- **[NIST CSWP 36F: Initial NAS Message Security](https://csrc.nist.gov/pubs/cswp/36/f/initial-nas-message-security-applying-5g-cybersecu/ipd)** — NIST NCCoE, Aug 6, 2026 (Initial Public Draft)
+
+  Explains how standards-defined 5G protections can encrypt and integrity-protect sensitive content in initial Non-Access Stratum messages, and describes how operators can test whether those protections are enabled in their deployments.
+
+- **[GSMA Mobile Telecommunications Security Landscape 2026](https://www.gsma.com/solutions-and-impact/technologies/security/gsma-mobile-telecommunications-security-landscape-2026/)** — GSMA, 2026
+
+  Industry threat-landscape report documenting attack trends across networks, devices, and subscribers. Covers weaknesses in software implementations, barriers to launching attacks, supply chain exposure, and operational mitigation priorities.
+
+- **[ADAD: AI-Driven Detector for Fake Base Station and Signal Overshadowing Attacks](https://www.sciencedirect.com/science/article/pii/S138912862600678X)** — Computer Networks, Oct 2026
+
+  Detection research focused on fake-base-station and signal-overshadowing threats in radio access networks, including the LTE control-plane procedures retained by 5G NSA and some satellite direct-to-cell deployments.
