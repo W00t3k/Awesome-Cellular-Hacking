@@ -1115,3 +1115,20 @@ This repository is for educational and research purposes only. Users are respons
 - **[ADAD: AI-Driven Detector for Fake Base Station and Signal Overshadowing Attacks](https://www.sciencedirect.com/science/article/pii/S138912862600678X)** — Computer Networks, Oct 2026
 
   Detection research focused on fake-base-station and signal-overshadowing threats in radio access networks, including the LTE control-plane procedures retained by 5G NSA and some satellite direct-to-cell deployments.
+
+
+---
+
+### iOS Exploitation and Persistent Jailbreak Research (2026)
+
+- **[Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/en/topics/threat-intelligence/coruna-powerful-ios-exploit-kit)** — Google Threat Intelligence Group, March 2026
+
+  Advanced iOS exploit kit containing 23 exploits across five complete chains targeting iOS 13.0–17.2.1. Combines WebKit RCE, sandbox escapes, and kernel exploitation. Associated with surveillance and financially motivated attacks.
+
+- **[Calif: Persistent iPhone Jailbreak at Hexacon 2026](https://blog.calif.io/p/iphone)** — Calif, October 2026
+
+  Researchers demonstrated an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1, retaining root access following reboot. Also presented Signal and iMessage exploitation demonstrations. Technical details and public exploit code have not been released.
+
+- **[ARIstoteles: Dissecting Apple's Baseband Interface](https://arxiv.org/abs/2604.23457)** — April 2026
+
+  Reverse engineering and fuzzing research targeting Apple's undocumented ARI interface between the application processor, CommCenter, and cellular baseband. Introduces automated Wireshark dissector generation and a framework for identifying baseband-facing attack surfaces.
